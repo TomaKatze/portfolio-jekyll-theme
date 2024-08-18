@@ -1,5 +1,6 @@
 # Build settings
 
+theme: Mid-night
 port: 4000
 markdown:  kramdown
 permalink: /:title
